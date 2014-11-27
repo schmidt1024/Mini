@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
-<install version="2.5" type="template" method="upgrade">
+<install version="3.3" type="template" client="site" method="upgrade">
 	<name>mini</name>
 	<creationDate>xxxx-xx-xx</creationDate>
 	<author>your name</author>
